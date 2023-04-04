@@ -1,0 +1,47 @@
+body{
+    background-image: url("images/sign.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 150px;
+    font-family: Cambria;
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+
+h1{
+    font-family: cambria;
+    text-align: center;
+    color: aliceblue;
+    font-size: 35px;
+}
+
+a{
+    font-family: courier;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+input{
+    max-width: 600px;
+    max-height: 30px;
+    border: 2px thin black;
+    border-radius: 5px;
+    font-family: courier;
+}
+
+button{
+    font-family: courier;
+}
+
+button:hover{
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.home:hover{
+    font-family: cambria;
+}
